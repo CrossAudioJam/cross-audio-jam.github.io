@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Stylish Website</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="objtimer">
+        <div class="days">10</div>
+        <div class="days_descr">Days</div>
+        <div class="hrs">06</div>
+        <div class="hrs_descr">Hours</div>
+        <div class="min">42</div>
+        <div class="min_descr">Minutes</div>
+        <div class="sec">15</div>
+        <div class="sec_descr">Seconds</div>
+    </div>
+</body>
+</html>
